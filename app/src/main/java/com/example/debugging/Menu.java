@@ -39,7 +39,7 @@ public class Menu extends AppCompatActivity implements View.OnClickListener{
     {
         buttonExit = findViewById(R.id.buttonExit);
         buttonInformation = findViewById(R.id.buttonInformation);
-        buttonNameChange = findViewById(R.id.buttonBack);
+        buttonNameChange = findViewById(R.id.buttonNameChange);
         buttonNext = findViewById(R.id.buttonNext);
         textViewName = findViewById(R.id.textViewName);
 
